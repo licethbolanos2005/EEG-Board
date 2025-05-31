@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-05-31T02:34:48Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Board_v3_2"
+        },
+        "Owner": "Liceth Bolaos <liceth.bolanos01@uceva.edu.co>",
+        "Size": {
+            "X": 58.7375,
+            "Y": 80.16875
+        }
+    }
+}
