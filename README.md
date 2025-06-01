@@ -46,6 +46,10 @@ Todos los componentes utilizados son de montaje superficial (SMD), lo que permit
 
 Este repositorio contiene los archivos Gerber necesarios para la fabricación de la PCB. Se divide en dos carpetas principales:
 
+### DemonstrationVideo
+
+Esta carpeta contiene un video demostrativo del sistema electroencefalográfico implementado. En la prueba se utilizaron electrodos de cloruro de plata colocados en la frente (dos canales) y en la mano (referencia). La señal adquirida se visualiza en tiempo real, evidenciando el funcionamiento del sistema.
+
 ### DrillFiles
 
 - `drill_1_16.xln`: Archivo de perforado (formato Excellon) que define los agujeros en la PCB, utilizados para conexiones internas, stitching y enrutamiento entre capas.
@@ -63,10 +67,6 @@ Este repositorio contiene los archivos Gerber necesarios para la fabricación de
 | `soldermask_top.gbr`      | Máscara de soldadura superior              |
 
 Estos archivos pueden ser enviados directamente a un fabricante de PCBs (como JLCPCB, PCBWay, etc.).
-
-### DemonstrationVideo
-
-Esta carpeta contiene un video demostrativo del sistema electroencefalográfico implementado. En la prueba se utilizaron electrodos de cloruro de plata colocados en la frente (dos canales) y en la mano (referencia). La señal adquirida se visualiza en tiempo real, evidenciando el funcionamiento del sistema.
 
 ## Aplicaciones
 
