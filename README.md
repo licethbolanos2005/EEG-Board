@@ -64,6 +64,10 @@ Este repositorio contiene los archivos Gerber necesarios para la fabricación de
 
 Estos archivos pueden ser enviados directamente a un fabricante de PCBs (como JLCPCB, PCBWay, etc.).
 
+### DemonstrationVideo
+
+Esta carpeta contiene un video demostrativo del sistema electroencefalográfico implementado. En la prueba se utilizaron electrodos de cloruro de plata colocados en la frente (dos canales) y en la mano (referencia). La señal adquirida se visualiza en tiempo real, evidenciando el funcionamiento del sistema.
+
 ## Aplicaciones
 
 - Captura y análisis de señales EEG para entornos educativos.
